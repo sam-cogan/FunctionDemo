@@ -10,5 +10,7 @@ namespace DemoApp1
         public string EventCategory { get; set; }
 
         public DateTime EventTime { get; set; }
+
+        public int Priority { get; set; }
     }
 }

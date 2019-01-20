@@ -27,7 +27,7 @@ namespace DemoApp1
             string requestBody = new StreamReader(req.Body).ReadToEnd();
             var logEvent =JsonConvert.DeserializeObject<LogData>(requestBody as string);
 
-            document = new { Id = Guid.NewGuid(), Message= logEvent.EventMessage, Time=logEvent.EventTime, Category=logEvent.EventCategory };
+            document = new { Id = Guid.NewGuid(), Message= logEvent.EventMessage, Time=logEvent.EventTime, Category=logEvent.EventCategory, Priority=logEvent.Priority };
 
         }
     }

@@ -1,0 +1,11 @@
+D:\Repos\FunctionDemo\DemoAppTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Repos\FunctionDemo\DemoAppTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\Repos\FunctionDemo\DemoAppTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\Repos\FunctionDemo\DemoAppTests\bin\Debug\netcoreapp2.2\DemoAppTests.deps.json
+D:\Repos\FunctionDemo\DemoAppTests\bin\Debug\netcoreapp2.2\DemoAppTests.runtimeconfig.json
+D:\Repos\FunctionDemo\DemoAppTests\bin\Debug\netcoreapp2.2\DemoAppTests.runtimeconfig.dev.json
+D:\Repos\FunctionDemo\DemoAppTests\bin\Debug\netcoreapp2.2\DemoAppTests.dll
+D:\Repos\FunctionDemo\DemoAppTests\obj\Debug\netcoreapp2.2\DemoAppTests.csprojAssemblyReference.cache
+D:\Repos\FunctionDemo\DemoAppTests\obj\Debug\netcoreapp2.2\DemoAppTests.csproj.CoreCompileInputs.cache
+D:\Repos\FunctionDemo\DemoAppTests\obj\Debug\netcoreapp2.2\DemoAppTests.AssemblyInfoInputs.cache
+D:\Repos\FunctionDemo\DemoAppTests\obj\Debug\netcoreapp2.2\DemoAppTests.AssemblyInfo.cs

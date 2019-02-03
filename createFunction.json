@@ -114,7 +114,7 @@
               },
               {
                 "name": "CosmosDbConnection",
-                "value": "[parameters('CosmosDbConnection')]"
+                "value": "[parameters('CosmosConnectionString')]"
               }
             ]
           }

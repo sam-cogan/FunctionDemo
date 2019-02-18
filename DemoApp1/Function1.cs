@@ -14,7 +14,9 @@ namespace DemoApp1
     public static class Function1
     {
         [FunctionName("Function1")]
-        public static void Run([HttpTrigger(AuthorizationLevel.Function, "post", Route = null)]HttpRequest req, [CosmosDB(
+        public static void Run(
+            [HttpTrigger(AuthorizationLevel.Function, "post", Route = null)]HttpRequest req, 
+            [CosmosDB(
                 databaseName: "FunctionLogDemo",
                 collectionName: "DemoCollection",
                 ConnectionStringSetting = "CosmosDBConnection")]out dynamic document,
